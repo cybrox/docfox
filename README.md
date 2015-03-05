@@ -1,5 +1,5 @@
 # Docfox
-
+[![Build Status](https://api.travis-ci.org/cybrox/docfox.png?branch=master)](http://travis-ci.org/cybrox/docfoxs)
 A dead-simple documentation generator for small C libraries, single-file scripts or small projects. While docfox offers (*will offer*) a sleak and sexy template for displaying and browsing the generated documentation, the core documentation is generated as a simple JSON string, thus can be hooked up to almost any for of output.
 
 ## Development status
